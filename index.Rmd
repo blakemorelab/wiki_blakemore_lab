@@ -1,0 +1,13 @@
+--- 
+title: "Blakemore Lab"
+author: "Contributors - Emily Towner"
+date: "Last updated - `r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [references.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "These are the protocols for the Blakemore Lab at the University of Cambridge"
+---
+
+# Blakemore Lab

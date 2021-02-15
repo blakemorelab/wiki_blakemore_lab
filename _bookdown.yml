@@ -1,0 +1,6 @@
+book_filename: "wiki_blakemore_lab"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Section "
+output_dir: "docs"
